@@ -1,4 +1,4 @@
-# Tarea 0 - Máquinas de Aprendizaje 2019-1
+# Tarea 0 - Máquinas de Aprendizaje 2019-II
 
 Integrantes:
   - Francisco Abarca M. 201673552-6
